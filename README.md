@@ -1,1 +1,1 @@
-ATmega8 K-type thermocouple MAX6675 communication via SPI.
+ATmega8 to MAX6675 K-type thermocouple communication via SPI.
